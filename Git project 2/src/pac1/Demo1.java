@@ -6,6 +6,6 @@ public class Demo1 {
 	public static void main(String[] args) {
 		
 		System.out.println("this is jenkins project 2...");
-		System.out.println("hii .... 1");...
+		System.out.println("hii .... 1");
 	}
 }
